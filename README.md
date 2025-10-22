@@ -1,9 +1,4 @@
-<div align="center">
-<h1 align="center">Tic Tac Toe Game</h1>
-  <h3 align="center">
-   https://devrishi-dutta.github.io/Impossible-TicTacToe/
-  </h3>
-</div>
+
 
 
 <img width="918" alt="Screenshot 2023-08-07 115138" src="https://github.com/Devrishi-Dutta/Impossible-TicTacToe/assets/97834009/371c7c20-f295-432c-bc00-269772e22756">
@@ -43,5 +38,6 @@ This project can be further improved with the following enhancements:
 - Implementing different difficulty levels for the AI in single-player mode.
 - Adding animations and sound effects to enhance the user experience.
 - Implementing an option to allow players to choose their symbols (X or O) before starting the game.
+
 
 
